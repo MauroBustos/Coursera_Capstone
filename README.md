@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repository for the Coursera Capstone Project
+Repository for the Coursera Data Science Capstone Project
